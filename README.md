@@ -1,2 +1,3 @@
 # NebulaNotes-
-A to do list task maker 
+a to do list / task maker 
+
